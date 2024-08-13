@@ -11,11 +11,15 @@ User-Friendly Design: Set a default stop for quick access to your most-used rout
 Technologies Used 
 
 Java: Core programming language for skill logic.
+
 AWS Lambda: Serverless computing service to handle skill requests.
+
 AWS DynamoDB: Persistent data storage for user preferences.
+
 Transit API: Access live bus and train schedules.
 
 Installation and Usage
+
 To use this skill, simply enable it on your Alexa device by visiting the Alexa Skills Store.
 
 Alexa Skills Store Link
